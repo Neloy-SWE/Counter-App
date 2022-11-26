@@ -1,16 +1,9 @@
-# counter_app
+# Counter App
 
-Simple counter flutter app using bloc
+Simple counter flutter app using bloc. To understand basic concept about bloc state management
+tool, I have build this app. It holds the value of counter and also save it in local storage. So
+that, when app relaunch it show the last value of counter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+<p float="left">
+  <img src="screenshots/counter.png" width="200" />
