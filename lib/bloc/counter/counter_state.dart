@@ -1,6 +1,5 @@
 part of 'counter_bloc.dart';
 
-@immutable
 class CounterState extends Equatable {
   final int counter;
 
